@@ -1,4 +1,6 @@
+# Coding Challenge 3, hangman.py
 # Name: Rohan Shrestha
+# Student No: NP03CS4S210094
 
 # Hangman Game
 
@@ -260,7 +262,7 @@ def hangman(word):
             print("Your input is invalid")
             no_of_guesses -= 1
         print("--------------------")  
-        menu()
+    menu()
 
 
 # Driver function for the program
